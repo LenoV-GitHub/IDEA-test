@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("在线更新1");
         System.out.println("主干添加2");
         System.out.println("在线更新2");
+        System.out.println("在线更新3");
     }
 }
